@@ -1,4 +1,4 @@
-# Credit Default - Multiple Logistic Regression
+# Credit Default - Logistic Regression
 
 # Project summary:
 Predict whether an individual will default on his/her credit card, based on his/her annual income, outstanding balance, and status.
